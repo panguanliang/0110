@@ -7,6 +7,6 @@ public class son extends father{
         this.phone=phone;
     }
     public String toString(){
-        return "性别"+sex+"手机号码"+phone+"学号"+ID+"密码"+password;
+        return sex+" "+phone+" "+ID+" "+password;
     }
 }
