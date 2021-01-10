@@ -5,4 +5,7 @@ public class kol {
         this.l=l;
         this.o=o;
      }
+     public kol(){
+
+     }
 }

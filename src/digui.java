@@ -1,6 +1,6 @@
 import java.io.File;
 
-public class text {
+public class digui {
     public static void main(String args[]) {
         File file = new File("F:\\qin\\2");
         men(file);
